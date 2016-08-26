@@ -1,0 +1,6 @@
+# .gitignore
+# files matching these patterns are NOT included in commits
+#-----------------------------------------------------------
+
+# ignore emacs backups
+*~
